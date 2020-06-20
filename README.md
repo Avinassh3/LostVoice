@@ -3,7 +3,7 @@
 # Command to install packages
 
 > npm install
-It installs all required packages 
+
 
 # To run this project make sure backend service's are up 
 
